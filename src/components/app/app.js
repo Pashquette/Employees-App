@@ -15,8 +15,7 @@ class App extends Component {
             data: [
                 {name: 'Сотрудник 1', salary: 800, increase: false, rise: true, id: 1},
                 {name: 'Сотрудник 2', salary: 3000, increase: true, rise: false, id: 2},
-                {name: 'Сотрудник 3', salary: 5000, increase: false, rise: false, id: 3},
-                {name: 'Сотрудник 3', salary: 5000, increase: false, rise: false, id: 4},
+                {name: 'Сотрудник 3', salary: 5000, increase: false, rise: false, id: 3},,
             ],
             term: '', 
             filter: 'all'
